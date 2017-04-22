@@ -29,12 +29,13 @@ Our asset is partnering w/ people picking up and collecting data.
 
 - Allows users to list items for pickup.
 - Allows users to view map for dropoff.
-- Incentivizes users by quantifying their participation.
+- Incentivizes users by quantifying their participation and comparing it to average person.
 - Incentivizes cyclists by quantifying their participation.
 - Quantifies miles ridden, tonnes of each material recycled.
 - Allows cyclist/ev to view map of items needing pickup.
 
 ### Materials (Each material is quantified)
+
 (EPA WARM has a list of items and metrics)
 
 - Food
@@ -48,7 +49,6 @@ Our asset is partnering w/ people picking up and collecting data.
 - Tires
 - Bikes
 
-
 ### Trial Groups:
 
 - 10-20 Household trial group. 
@@ -61,6 +61,7 @@ Our asset is partnering w/ people picking up and collecting data.
 
 ### Needs:
 
+- Baseline data and metric
 - Marketing
 	- Website
 	- Promitional video
@@ -99,6 +100,13 @@ Our asset is partnering w/ people picking up and collecting data.
 - Reuse materials in novel ways
 - Sell materials to pay cyclists
 - Collaborate to build houses out of recycled materials (Habitat for Humanity)
+
+Possible separate project:
+
+- City of Fort Collins Recycling Transparency by analyzing city data on spending habits and using WARM metrics.
+	- Could rename recycling with carbon footprint or energy use.
+	- Hold city accountable
+	- demonstrate areas city can improve
 
 ## Partners
 
