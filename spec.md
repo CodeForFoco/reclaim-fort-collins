@@ -24,6 +24,10 @@ People don't compost because they don't have room in their backyard.
 
 Our asset is partnering w/ people picking up and collecting data.
 	- Quantifying data and presenting it to city and community.
+	
+### Solution
+
+Community Action coalition
 
 ### Features:
 
