@@ -1,6 +1,17 @@
-# Reclaim Fort Collins
+# Reclaim Fort Collins: A Free-Swap Facilitator to Make Fort Collins Greener
 
-// TODO: Description of project here
+Leaders: @davidbhayes (David Hayes) 
+
+Reclaim Fort Collins is a project submitted to Innovate Fort Collins as an idea. The core idea is that there will be a how-to-swap site that features a map that has the goal of making the it easy for people seeking good and people with good they no longer want to connect. Whether this is a community member posting the availablity of zucchinis or a used car, the site would facilitate free exachange of good for the sake of getting down with the group.
+
+## About Innovate Fort Collins
+
+Innovate Fort Collins is a grant competition. The next step for us to take is to put together the full aplliaction for the city. That is due **June 2, 2017**. Links to the application criteria:
+
+* [Main city site for the competition](http://www.fcgov.com/environmentalservices/innovate-fort-collins.php)
+* [Application Info](http://www.fcgov.com/environmentalservices/innovate-fort-collins.php)
+* [Application Checklist](http://www.fcgov.com/environmentalservices/pdf/ifcc-application-checklist.pdf)
+* [Full Application PDF](http://www.fcgov.com/environmentalservices/pdf/ifcc-full-application-form.pdf)
 
 ## Getting Started
 
