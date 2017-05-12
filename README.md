@@ -1,10 +1,10 @@
 # Reclaim Fort Collins
 
-// description here
+// TODO: Description of project here
 
 ## Getting Started
 
-// technical docs to clone and run proejct here
+// TODO: Technical documentation to clone, install and run the project goes here.
 
 ## Contributing
 
@@ -24,7 +24,7 @@ TL;DR Contribution Workflow:
 
 ## Bugs / Feedback / Suggestions
 
-We encourage you to [open up an issue](https://github.com/CodeForFoco/codeforfoco.github.io/issues/new) if you have any feedback, suggestions or bugs.
+We encourage you to [open up an issue][newissue]if you have any feedback, suggestions or bugs.
 
 ## License
 
@@ -33,5 +33,6 @@ MIT, see [LICENSE](/LICENSE) for full license.
 [fork]: https://help.github.com/articles/fork-a-repo/
 [forkthisrepo]: https://github.com/CodeForFoco/codeforfoco.github.io#fork-destination-box
 [contributing]: https://github.com/CodeForFoco/org/blob/master/CONTRIBUTING.md
-[githubissue]: https://github.com/CodeForFoco/codeforfoco.github.io/issues
+[githubissue]: https://github.com/CodeForFoco/reclaim-fort-collins/issues
+[newissue]: https://github.com/CodeForFoco/reclaim-fort-collins/issues/new
 [pullrequest]: https://github.com/CodeForFoco/codeforfoco.github.io/pulls
